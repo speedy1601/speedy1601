@@ -6,8 +6,8 @@ Quiero ser un A.I. Ingeniero.
 
 Skills: CPP / Python
 
-- 🌱 I’m currently learning DSA 
-- ⚡ Fun fact: I am a horrible weeb 
+- 🌱 Learning DSA 
+- ⚡ I am a horrible weeb with high affinity of learning spanish 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/speedy1601)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/counter-strike.svg' alt='counter-strike' height='40'>](https://w0.peakpx.com/wallpaper/406/171/HD-wallpaper-black-amoled-cs-go-csgo-dark-logo-minimal-thumbnail.jpg)  
