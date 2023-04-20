@@ -1,14 +1,13 @@
-### Hi there 👋, Maria Schillerefy
+### Maria Schillerefy
 #### DSA Learner
 ![DSA Learner](https://scontent.fdac41-1.fna.fbcdn.net/v/t1.15752-9/258735056_408173754123974_4371432332935641227_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeHvM9tkllXKx0fh3_-I4sUXsr_3x_Mq97myv_fH8yr3uZmjW46JP9IGK1ugzAHAbpBZOVHrcj064hON5oTn-o0_&_nc_ohc=ofx-D4VC7ZEAX_QfMWE&_nc_ht=scontent.fdac41-1.fna&oh=03_AdTynftPw2A-MoTrbG1AZA9Ww_-o3NQZBxYb0s80B_gVEA&oe=64690F92)
 
-Currently learning DSA. My only aim is to be an A.I. Engineer.
+Quiero ser un A.I. Ingeniero.
 
 Skills: CPP / Python
 
-- 🔭 I’m currently working on myself 
 - 🌱 I’m currently learning DSA 
-- ⚡ Fun fact: I am a weeb 
+- ⚡ Fun fact: I am a horrible weeb 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/speedy1601)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/counter-strike.svg' alt='counter-strike' height='40'>](https://w0.peakpx.com/wallpaper/406/171/HD-wallpaper-black-amoled-cs-go-csgo-dark-logo-minimal-thumbnail.jpg)  
