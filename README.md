@@ -1,6 +1,6 @@
 ### Maria Schillerefy
 #### DSA Learner
-![DSA Learner](https://scontent.fdac41-1.fna.fbcdn.net/v/t1.15752-9/258735056_408173754123974_4371432332935641227_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeHvM9tkllXKx0fh3_-I4sUXsr_3x_Mq97myv_fH8yr3uZmjW46JP9IGK1ugzAHAbpBZOVHrcj064hON5oTn-o0_&_nc_ohc=ofx-D4VC7ZEAX_QfMWE&_nc_ht=scontent.fdac41-1.fna&oh=03_AdTynftPw2A-MoTrbG1AZA9Ww_-o3NQZBxYb0s80B_gVEA&oe=64690F92)
+![DSA Learner](https://scontent.xx.fbcdn.net/v/t1.15752-9/258735056_408173754123974_4371432332935641227_n.jpg?stp=dst-jpg_p160x160&_nc_cat=103&ccb=1-7&_nc_sid=aee45a&_nc_eui2=AeHvM9tkllXKx0fh3_-I4sUXsr_3x_Mq97myv_fH8yr3uZmjW46JP9IGK1ugzAHAbpBZOVHrcj064hON5oTn-o0_&_nc_ohc=ofx-D4VC7ZEAX-KPLW0&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQXEo1hAJxeeIyNxkahr3t6GpRtds8rs1Cqw-yXGXI-JA&oe=64690F92)
 
 Wanna be an A.I. Engineer.
 
