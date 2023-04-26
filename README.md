@@ -4,7 +4,7 @@ https://user-images.githubusercontent.com/131306406/233603391-28b1731c-3dd6-4284
 ### Maria Schillerefy
 #### DSA Learner
 
-<img src = "https://scontent.fdac41-1.fna.fbcdn.net/v/t1.15752-9/258735056_408173754123974_4371432332935641227_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeHvM9tkllXKx0fh3_-I4sUXsr_3x_Mq97myv_fH8yr3uZmjW46JP9IGK1ugzAHAbpBZOVHrcj064hON5oTn-o0_&_nc_ohc=ofx-D4VC7ZEAX_QfMWE&_nc_ht=scontent.fdac41-1.fna&oh=03_AdTynftPw2A-MoTrbG1AZA9Ww_-o3NQZBxYb0s80B_gVEA&oe=64690F92" width = 557, height = "650"/>
+<img src = "https://res.cloudinary.com/teepublic/image/private/s--1iibNIry--/t_Resized%20Artwork/c_fit,g_north_west,h_1054,w_1054/co_ffffff,e_outline:53/co_ffffff,e_outline:inner_fill:53/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_90,w_630/v1591552927/production/designs/11088930_0.jpg" width = 557, height = "650"/>
 Wanna be an A.I. Engineer.
 
 Skills: CPP / Python
