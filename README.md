@@ -1,16 +1,14 @@
-https://user-images.githubusercontent.com/131306406/233603391-28b1731c-3dd6-4284-85eb-b5da615c6df1.mp4
+
 
 
 ### Hasibul Habib
 #### DSA Learner
 
-<img src = "" width = 520, height = "500"/>
 Want to be an A.I. Engineer.
 
 Skills: CPP / Python
 
 - 🌱 I am Learning : DSA 
-- ⚡ Fun Fact : I am a horrible weeb 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/speedy1601)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/counter-strike.svg' alt='counter-strike' height='40'>](https://w0.peakpx.com/wallpaper/406/171/HD-wallpaper-black-amoled-cs-go-csgo-dark-logo-minimal-thumbnail.jpg)  
