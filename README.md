@@ -1,12 +1,12 @@
 
 
 
-### Hasibul Habib
+### Eucliwood Hellscythe
 #### DSA Learner
 
 Want to be an A.I. Engineer.
 
-Skills: CPP / Python
+Skills: Python
 
 - 🌱 I am Learning : DSA 
 
